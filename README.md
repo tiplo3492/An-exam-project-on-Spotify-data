@@ -1,8 +1,6 @@
 # An exam project on Spotify data
 
-# The project on Spotify data for the course ‘’HEL-8048-1 24V Advanced data analysis and visualization using programming’’
-
-This exam project comparing various music data on 
+This project on Spotify data for the course ‘’HEL-8048-1 24V Advanced data analysis and visualization using programming’’ compares various music data on 
 - Taylor Swift 
 - Olivia Rodrido
 - Bad Bunny

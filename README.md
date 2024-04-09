@@ -5,7 +5,7 @@ This project on Spotify data for the course ‘’HEL-8048-1 24V Advanced data a
 - Olivia Rodrido
 - Bad Bunny
 
-The project consists of 6 tables using various programming manipulations
+The project consists of 6 tables using various programming manipulations. For a more detailed explanation, please refer to the "Report (Overview)..." file located in the "docs" folder.
 
 # License
 
